@@ -1,6 +1,3 @@
-package com.ssafy.day3;
-
-
 //class A{} // Java Class
 //class A{ mina(){}} // Java Application (독립적인 실행이 가능한 클래스)
 
